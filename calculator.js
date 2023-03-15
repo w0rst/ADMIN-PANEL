@@ -20,5 +20,3 @@ function calculate() {
     display.value = "Error";
   }
 }
-
-alert("Made By Horizone")
